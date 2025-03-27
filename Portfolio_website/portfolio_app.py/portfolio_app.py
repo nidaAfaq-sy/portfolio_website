@@ -85,7 +85,7 @@ def home_section():
     col1, col2 = st.columns([2, 1])
     
     with col1:
-        st.markdown('<p class="big-font">Hello, I\'m [Your Name]</p>', unsafe_allow_html=True)
+        st.markdown('<p class="big-font">Hello, I\'m [Nida Siddiqui]</p>', unsafe_allow_html=True)
         st.markdown('<p class="medium-font">Software Developer | Data Scientist</p>', unsafe_allow_html=True)
         st.write("Welcome to my portfolio! I'm passionate about creating innovative solutions and turning ideas into reality.")
         
